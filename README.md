@@ -16,12 +16,10 @@ To measure the height and arm span of classmates, record these measurements, gra
 4. **Record your measurements** in the table. 🕒 
 
 ### Data Recording Table 📋
+Record the data using these three columns 
 
 | Student Name | Height | Arm Span |
-|--------------|--------|----------|
-|              |        |          |
-|              |        |          |
-|              |        |          |
+
 
 
 ## Part 2: Graphing 📊 10 mins

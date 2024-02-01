@@ -1,5 +1,7 @@
 # Exploring the Relationship Between Height and Arm Span 📏🤲
 
+![qr_link](qr_link.png)
+
 ## Objective 🎯
 To measure the height and arm span of classmates, record these measurements, graph them, and explore their relationship. Aim to create a simple function that explains this relationship.
 

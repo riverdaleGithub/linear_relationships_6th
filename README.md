@@ -28,17 +28,13 @@ Record the data using these three columns inside a google sheet.
 
 Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets. Here's a quick guide to get you started with entering data and using formulas.
 
-<details>
-<summary><strong>Step 1: Inputting Table Data 📝</strong></summary>
-
+#### Step 1: Inputting Table Data 📝
 
 1. **Open Google Sheets**: Go to [Google Sheets](https://sheets.google.com) and either start a new spreadsheet or open an existing one.
 2. **Select a Cell**: Click on the cell where you want to start entering data (e.g., A1).
 3. **Type Your Data**: Just start typing. Press `Enter` to move down to the next row or `Tab` to move to the next column.
 4. **Fill Down or Across**: To quickly copy data or formulas, select the cell with the content you want to copy, hover over the small square at the bottom right corner of the cell (the fill handle), and drag it down or across.
 
-
-</details>
 
 <details>
 <summary><strong>Step 2: Inputting a Formula 🔢 </strong></summary>

@@ -15,11 +15,12 @@ To measure the height and arm span of classmates, record these measurements, gra
 3. **Measure the arm span** of each group member. 
 4. **Record your measurements** in the table. 
 
----
-## Data Recording Table 📋
+### Data Recording Table 📋
 Record the data using these three columns inside a google sheet. 
 
 | Student Name | Height | Arm Span |
+
+---
 
 ### How to Use Google Sheets: A Student Guide 📚
 
@@ -36,7 +37,7 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
 </details>
 
 <details>
-<summary><strong>Step 2: Inputting a Formula 🔢</strong></summary>
+<summary><strong>Step 2: Inputting a Formula 🔢 </strong></summary>
 
 1. **Select a Cell for Your Formula**: Click on the cell where you want the result of the formula to appear.
 2. **Start with an Equals Sign**: Every formula begins with an equals sign (`=`). This tells Google Sheets that what follows is a formula.
@@ -45,16 +46,49 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
 
 </details>
 
+<details>
+<summary><strong>Step 3: Inputting your Formula 🔢</strong></summary>
+  
+## Direct Linear Formula 📈
+
+If you're armed with the slope (`m`) and y-intercept (`b`) of your linear relationship, crafting the formula is a breeze:
+
+<code><pre>
+[ y = mx + b \]
+
+Where:
+- `y` 🎯 is the dependent variable (the value you're solving for),
+- `m` ⬆️ is the slope of the line (how much `y` changes for a one-unit change in `x`),
+- `x` 📊 is the independent variable,
+- `b` 🚩 is the y-intercept (the value of `y` when `x` is 0).
+
+</pre></code>
+
+### Example:
+
+Suppose you have a dataset where:
+- **x** (independent variable) represents hours studied 📚,
+- **y** (dependent variable) represents the exam score 📝,
+- and you know that for every hour studied, the exam score increases by 5 points (slope = 5), and the base score (y-intercept) is 50 points.
+
+To calculate the exam score based on hours studied, you would input the following formula in Google Sheets:
+
+<pre><code>=5 * A2 + 50 </code></pre>
+
+
+</details>
+
+
 ---
 
 
 
-## Part 2: Graphing 📊 🕒 10 mins 🕒
+## Part 3: Graphing 📊 🕒 10 mins 🕒
 1. **Plot the data** on graph paper, using height for the x-axis and arm span for the y-axis. 
 2. **Label each axis** with the correct measurement unit. 
 3. **Draw points** for each set of measurements and **connect the dots** if a pattern is visible. 
 
-## Part 3: Creating a Function ➗ 🕒 10 Mins 🕒
+## Part 4: Creating a Function ➗ 🕒 10 Mins 🕒
 1. **Analyze the graph** to identify if the relationship between height and arm span appears linear.
 2. **Discuss and propose a simple function** (e.g., `y = x` or `y = x + a`) that might describe this relationship. 
 

@@ -8,7 +8,7 @@
 
 <details>
 <summary>Solution</summary>
-
+<pre><code>
 **Linear Formula:** `Cups = 10 + 5 * (Day - 1)`
 
 - **Day 1:** 10 cups
@@ -20,7 +20,7 @@
 **Total Cups Sold:** 10 + 15 + 20 + 25 + 30 = 100 cups
 
 **Answer:** Jamie sells a total of 100 cups over 5 days. The formula for the number of cups sold each day is `Cups = 10 + 5 * (Day - 1)`.
-
+</code></pre>
 </details>
 
 ---

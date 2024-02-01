@@ -36,6 +36,7 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
 2. **Select a Cell**: Click on the cell where you want to start entering data (e.g., A1).
 3. **Type Your Data**: Just start typing. Press `Enter` to move down to the next row or `Tab` to move to the next column.
 4. **Fill Down or Across**: To quickly copy data or formulas, select the cell with the content you want to copy, hover over the small square at the bottom right corner of the cell (the fill handle), and drag it down or across.
+
 </code></pre>
 </details>
 
@@ -49,14 +50,15 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
 </code></pre>
 </details>
 
+
 <details>
 <summary><strong>Step 3: Inputting your Formula 🔢</strong></summary>
-  
-## Direct Linear Formula 📈
-<pre><code> 
-If you're armed with the slope (`m`) and y-intercept (`b`) of your linear relationship, crafting the formula is a breeze
 
-[ y = mx + b \]
+  <pre><code>
+  Direct Linear Formula 📈 If you're armed with the slope (`m`) and y-intercept (`b`) of 
+  your linear relationship, crafting the formula is a breeze
+  
+    y = mx + b 
 
 Where:
 - `y` 🎯 is the dependent variable (the value you're solving for),
@@ -65,9 +67,11 @@ Where:
 - `b` 🚩 is the y-intercept (the value of `y` when `x` is 0).
 
 </code></pre>
+</details>
 
-### Example:
 
+<details>
+<summary><strong> Example  🔢</strong></summary>
 <pre><code>
 Suppose you have a dataset where:
 - **x** (independent variable) represents hours studied 📚,
@@ -76,11 +80,9 @@ Suppose you have a dataset where:
 
 To calculate the exam score based on hours studied, you would input the following formula in Google Sheets:
 
-<pre><code>=5 * A2 + 50 
+ =5 * A2 + 50 
 
 </code></pre>
-
-
 </details>
 
 

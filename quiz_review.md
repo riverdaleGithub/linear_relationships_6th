@@ -33,6 +33,7 @@
 
 <details>
 <summary>Solution</summary>
+<pre><code>
 
 **Linear Formula:** `Savings = 5 + 5 * (Week - 1)`
 
@@ -44,6 +45,7 @@
 **Total Savings:** $5 + $10 + $15 + $20 = $50
 
 **Answer:** Alex saves a total of $50 after 4 weeks. The formula for the amount saved each week is `Savings = 5 + 5 * (Week - 1)`.
+</pre></code>
 
 </details>
 
@@ -57,6 +59,7 @@
 
 <details>
 <summary>Solution</summary>
+<pre><code>
 
 **Linear Formula:** `Tickets = 20 + 10 * (Day - 1)`
 
@@ -69,6 +72,7 @@
 **Total Tickets Sold:** 20 + 30 + 40 + 50 + 60 = 200 tickets
 
 **Answer:** The school sells a total of 200 tickets over 5 days. The formula for the number of tickets sold each day is `Tickets = 20 + 10 * (Day - 1)`.
+</pre></code>
 
 </details>
 
@@ -80,6 +84,7 @@
 
 <details>
 <summary>Solution</summary>
+<pre><code>
 
 **Linear Formula:** `Boxes = 40 + 10 * (Day - 1)`
 
@@ -92,6 +97,7 @@
 **Total Boxes Sold:** 40 + 50 + 60 + 70 + 80 = 300 boxes
 
 **Answer:** The scout troop sells a total of 300 boxes over 5 days. The formula for the number of boxes sold each day is `Boxes = 40 + 10 * (Day - 1)`.
+</pre></code>
 
 </details>
 
@@ -105,12 +111,14 @@
 
 <details>
 <summary>Solution</summary>
+<pre><code>
 
 **Linear Formula:** `Height = 10 + 2 * (Day)`
 
 - **After 5 Days:** The plant is 10 cm + (2 cm/day * 5 days) = 20 cm tall.
 
 **Answer:** The plant is 20 cm tall after 5 days. The formula for the plant's height each day is `Height = 10 + 2 * (Day)`.
+</pre></code>
 
 </details>
 
@@ -124,6 +132,7 @@
 
 <details>
 <summary>Solution</summary>
+<pre><code>
 
 **Cost Calculation:** 
 - **Day 1:** $15
@@ -132,6 +141,7 @@
 **Total Cost:** $15 + (4 days * $12) = $63
 
 **Answer:** It costs $63 to rent a bike for 5 days. The discount applies from the second day onwards, making the daily cost $12 after the first day.
+</pre></code>
 
 </details>
 
@@ -145,12 +155,14 @@
 
 <details>
 <summary>Solution</summary>
+<pre><code>
 
 **Linear Formula:** `Expenditure = 50 + 20 * (Month - 1)`
 
 - **Total Expenditure:** $50 (Month 1) + $70 (Month 2) + $90 (Month 3) + $110 (Month 4) = $320
 
 **Answer:** The teacher spends a total of $320 on art supplies over 4 months. The formula for the expenditure each month is `Expenditure = 50 + 20 * (Month - 1)`.
+</pre></code>
 
 </details>
 
@@ -164,12 +176,14 @@
 
 <details>
 <summary>Solution</summary>
+<pre><code>
 
 **Linear Formula:** `Books = 5 + 2 * (Month - 1)`
 
 - **Total Books Read:** 5 (Month 1) + 7 (Month 2) + 9 (Month 3) + 11 (Month 4) = 32 books
 
 **Answer:** The student reads a total of 32 books over 4 months. The formula for the number of books read each month is `Books = 5 + 2 * (Month - 1)`.
+</pre></code>
 
 </details>
 

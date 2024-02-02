@@ -37,17 +37,17 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
 
 
 #### Step 2: Inputting a Formula 🔢 
-1. **Select a Cell for Your Formula**: Click on the cell where you want the result of the formula to appear.
-2. **Start with an Equals Sign**: Every formula begins with an equals sign (`=`). This tells Google Sheets that what follows is a formula.
-3. **Type Your Formula**: After the equals sign, type your formula. For example, to sum numbers in cells A1 through A5, you would type `=SUM(A1:A5)`.
-4. **Press Enter**: Once you've typed your formula, press `Enter` to run it. The cell will now display the result.
 
+![ex2](better_example.jpeg)
 
 <details>
-<summary><strong>🏮Hint 🏮 </strong></summary>
+<summary><strong> Written Directions </strong></summary>
   
-  ![formula](formula.gif)
-
+  1. **Select a Cell for Your Formula**: Click on the cell where you want the result of the formula to appear. <br>
+  2. **Start with an Equals Sign**: Every formula begins with an equals sign (`=`). This tells Google Sheets that what follows is a formula.<br>
+  3. **Type Your Formula**: After the equals sign, type your formula. For example, to sum numbers in cells A1 through A5, you would type `=SUM(A1:A5)`. <br>
+  4. **Press Enter**: Once you've typed your formula, press `Enter` to run it. The cell will now display the result. <br>
+     
 </details>
 
 #### Step 3: Inputting your Formula 🔢
@@ -69,17 +69,15 @@ Where:
 
 <details>
 <summary><strong> Example  🔢</strong></summary>
-<pre><code>
-Suppose you have a dataset where:
-- X (independent variable) represents hours studied 📚,
-- Y (dependent variable) represents the exam score 📝,
-- and you know that for every hour studied, <br> the exam score increases by 5 points (slope = 5), <br> and the base score (y-intercept) is 50 points. <br>
 
-To calculate the exam score based on hours studied, <br> you would input the following formula in Google Sheets:
-
- =5 * A2 + 50 
-
-</code></pre>
+    Suppose you have a dataset where:
+  - X (independent variable) represents hours studied 📚,
+  - Y (dependent variable) represents the exam score 📝,
+  - and you know that for every hour studied, <br> the exam score increases by 5 points (slope = 5), <br> and the base score (y-intercept) is 50 points. <br>
+  
+  To calculate the exam score based on hours studied, <br> you would input the following formula in Google Sheets:
+  
+   =5 * A2 + 50 
 </details>
 
 

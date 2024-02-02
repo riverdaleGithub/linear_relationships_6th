@@ -11,13 +11,14 @@ To measure the height and arm span of classmates, record these measurements, gra
 - Pencil and eraser
 - Calculator
 
-## Part 1: Measurement 📐  🕒 15 mins 
+## Part 1 : Measurement & Data Collection 📐  🕒 15 mins 
+
 1. **Form groups** of at least four students. 
 2. **Measure the height** of each group member. 
 3. **Measure the arm span** of each group member. 
-4. **Record your measurements** in the table. 
+4. **Record your measurements** in the google sheets table. 
 
-### Data Recording Table 📋
+Data Recording Table 📋
 Record the data using these three columns inside a google sheet. 
 
 | Student Name | Height | Arm Span |
@@ -50,9 +51,12 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
      
 </details>
 
-#### Step 3: Inputting your Formula 🔢
+## Part 2: Creating a Function ➗ 🕒 10 Mins 
 
-  Direct Linear Formula 📈 
+1. **Analyze the graph** to identify if the relationship between height and arm span appears linear.
+2. **Discuss and propose a simple function** (e.g., `y = x` or `y = x + a`) that might describe this relationship. 
+
+One example is the Direct Linear Formula 📈 
   
   <pre><code>
     y = mx + b 
@@ -61,12 +65,10 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
 If you're armed with the slope (`m`) and y-intercept (`b`) of <br> your linear relationship, crafting the formula is a breeze
 
 Where:
-- `y` 🎯 is the dependent variable (the value you're solving for),
-- `m` ⬆️ is the slope of the line (how much `y` changes for a one-unit change in `x`),
-- `x` 📊 is the independent variable,
+- `y` 🎯 is the dependent variable (the value you're solving for), <br>
+- `m` ⬆️ is the slope of the line (how much `y` changes for a one-unit change in `x`),<br>
+- `x` 📊 is the independent variable,<br>
 - `b` 🚩 is the y-intercept (the value of `y` when `x` is 0).
-
-
 
 <details>
 <summary><strong> Example  🔢</strong></summary>
@@ -80,24 +82,20 @@ Where:
   
   To calculate the exam score based on hours studied, <br> you would input the following formula in Google Sheets:
   
-   =5 * A2 + 50 
+   =5 * Cell_ID + 50 
+
 </details>
 
 
 ---
 
-
-
-## Part 3: Graphing 📊 🕒 10 mins 🕒
+## Part 3: Graphing 📊 🕒 10 mins 
 1. **Plot the data** on graph paper, using height for the x-axis and arm span for the y-axis. 
 2. **Label each axis** with the correct measurement unit. 
 3. **Draw points** for each set of measurements and **connect the dots** if a pattern is visible. 
 
-## Part 4: Creating a Function ➗ 🕒 10 Mins 🕒
-1. **Analyze the graph** to identify if the relationship between height and arm span appears linear.
-2. **Discuss and propose a simple function** (e.g., `y = x` or `y = x + a`) that might describe this relationship. 
 
-## Reflection Questions 🤔 🕒 10 Mins 🕒
+## Reflection Questions 🤔 🕒 10 Mins 
 1. How well did your function describe the relationship between height and arm span?
 2. Were there any outliers in your data? Why do you think they exist?
 3. What did you learn about the relationship between a person's height and their arm span?

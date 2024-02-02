@@ -36,25 +36,28 @@ Google Sheets is a powerful tool for creating, editing, and sharing spreadsheets
 4. **Fill Down or Across**: To quickly copy data or formulas, select the cell with the content you want to copy, hover over the small square at the bottom right corner of the cell (the fill handle), and drag it down or across.
 
 
-<details>
-<summary><strong>Step 2: Inputting a Formula 🔢 </strong></summary>
-<pre><code> 
+#### Step 2: Inputting a Formula 🔢 
 1. **Select a Cell for Your Formula**: Click on the cell where you want the result of the formula to appear.
 2. **Start with an Equals Sign**: Every formula begins with an equals sign (`=`). This tells Google Sheets that what follows is a formula.
 3. **Type Your Formula**: After the equals sign, type your formula. For example, to sum numbers in cells A1 through A5, you would type `=SUM(A1:A5)`.
 4. **Press Enter**: Once you've typed your formula, press `Enter` to run it. The cell will now display the result.
-</code></pre>
-</details>
 
 
 <details>
-<summary><strong>Step 3: Inputting your Formula 🔢</strong></summary>
+<summary><strong>🏮Hint 🏮 </strong></summary>
+  
+  ![formula](formula.gif)
 
-  <pre><code>
+</details>
+
+#### Step 3: Inputting your Formula 🔢
+
   Direct Linear Formula 📈 If you're armed with the slope (`m`) and y-intercept (`b`) of 
   your linear relationship, crafting the formula is a breeze
-  
+
+  <pre><code>
     y = mx + b 
+  </code></pre>
 
 Where:
 - `y` 🎯 is the dependent variable (the value you're solving for),
@@ -62,19 +65,17 @@ Where:
 - `x` 📊 is the independent variable,
 - `b` 🚩 is the y-intercept (the value of `y` when `x` is 0).
 
-</code></pre>
-</details>
 
 
 <details>
 <summary><strong> Example  🔢</strong></summary>
 <pre><code>
 Suppose you have a dataset where:
-- **x** (independent variable) represents hours studied 📚,
-- **y** (dependent variable) represents the exam score 📝,
-- and you know that for every hour studied, the exam score increases by 5 points (slope = 5), and the base score (y-intercept) is 50 points.
+- X (independent variable) represents hours studied 📚,
+- Y (dependent variable) represents the exam score 📝,
+- and you know that for every hour studied, <br> the exam score increases by 5 points (slope = 5), <br> and the base score (y-intercept) is 50 points. <br>
 
-To calculate the exam score based on hours studied, you would input the following formula in Google Sheets:
+To calculate the exam score based on hours studied, <br> you would input the following formula in Google Sheets:
 
  =5 * A2 + 50 
 
